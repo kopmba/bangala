@@ -1,5 +1,5 @@
 <div align="center" style="display:grid;place-items:center;">
-<img src="logo.png" />
+
 <h1>Bangala</h1>
 
 </div>
